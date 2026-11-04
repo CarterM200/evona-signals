@@ -3,7 +3,7 @@
 {
  "schema": "evona-signals/v1",
  "scan_date": "2026-11-04",
- "generated_at": "2026-11-04T10:19:20.183171Z",
+ "generated_at": "2026-11-04T10:22:03.295577Z",
  "source": "EVONA daily signals scan",
  "signals": [
   {
@@ -33,6 +33,20 @@
    "detail": "$95M modification (equitable adjustment) to the GPS IIIF contract, raising cumulative face value to ~$4.73B; work performed in Littleton, CO.",
    "source": "satnews.com",
    "url": "https://satnews.com/2026/11/02/space-force-awards-lockheed-martin-95m-gps-iiif-modification-bringing-contract-face-value-to-4-73b/"
+  },
+  {
+   "id": "scan-20261102-f-neros",
+   "type": "funding",
+   "company": "Neros",
+   "round": "Govt loan commitment (DoW Office of Strategic Capital)",
+   "amount": "Up to $450M",
+   "amtUSD": 450,
+   "date": "2 Nov 2026",
+   "dateISO": "2026-11-02",
+   "lead": "U.S. Dept. of War Office of Strategic Capital (conditional loan); plus $165M Neros equity, ~$615M total",
+   "sector": "Drones / UAS manufacturing",
+   "source": "executivegov.com",
+   "url": "https://www.executivegov.com/articles/dow-neros-drone-production-expansion"
   },
   {
    "id": "sig-f-22",
