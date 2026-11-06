@@ -1,9 +1,23 @@
 {
   "schema": "evona-signals/v1",
   "scan_date": "2026-11-06",
-  "generated_at": "2026-11-06T08:29:22.811Z",
+  "generated_at": "2026-11-06T10:20:59.000Z",
   "source": "EVONA daily signals scan",
   "signals": [
+    {
+      "id": "scan-20261106-c-02",
+      "type": "contract",
+      "company": "Voyager Technologies",
+      "agency": "U.S. Dept. of War — Strategic Capabilities Office (SCO)",
+      "value": "$22.4M",
+      "valUSD": 22.4,
+      "date": "6 Nov 2026",
+      "dateISO": "2026-11-06",
+      "sector": "Satellite deployment / small-sat dispensers",
+      "detail": "OTA R&D award to prototype flight-ready small-sat dispensers using unused launch payload capacity; aims to transition to U.S. Space Force.",
+      "source": "evertiq.com",
+      "url": "https://evertiq.com/news/2026-11-06-voyager-wins-224m-contract-for-satellite-deployment-systems"
+    },
     {
       "id": "scan-20261106-f-01",
       "type": "funding",
