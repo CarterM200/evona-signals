@@ -1,7 +1,7 @@
 {
   "schema": "evona-signals/v1",
-  "scan_date": "2026-11-06",
-  "generated_at": "2026-11-06T10:20:59.000Z",
+  "scan_date": "2026-11-07",
+  "generated_at": "2026-11-07T08:36:53.000Z",
   "source": "EVONA daily signals scan",
   "signals": [
     {
@@ -31,6 +31,34 @@
       "sector": "Defense autonomy / AI pilots & drones",
       "source": "bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition"
+    },
+    {
+      "id": "scan-20261107-f-01",
+      "type": "funding",
+      "company": "CesiumAstro",
+      "round": "Series D",
+      "amount": "$730M",
+      "amtUSD": 730,
+      "date": "5 Nov 2026",
+      "dateISO": "2026-11-05",
+      "lead": "Janus Henderson (lead equity); plus $100M debt from Export-Import Bank of the U.S. and JPMorgan; valuation above $4.5B",
+      "sector": "Space & defense communications / phased arrays / satellites",
+      "source": "spacenews.com",
+      "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
+    },
+    {
+      "id": "scan-20261107-c-01",
+      "type": "contract",
+      "company": "Viasat & Astranis (US) + SES",
+      "agency": "NASA (Near Space Network / Ka-band relay services)",
+      "value": "$1.07B",
+      "valUSD": 1070,
+      "date": "5 Nov 2026",
+      "dateISO": "2026-11-05",
+      "sector": "Satellite relay / space communications",
+      "detail": "NASA awarded three Ka-band space relay services contracts totalling ~$1.07B to Viasat, SES and Astranis; US awardees Viasat (Carlsbad, CA) and Astranis (San Francisco, CA).",
+      "source": "satnews.com",
+      "url": "https://satnews.com/2026/11/05/nasa-awards-1-07b-in-ka-band-space-relay-contracts-to-viasat-ses-and-astranis/"
     },
     {
       "id": "scan-20261106-c-01",
