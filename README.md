@@ -2,10 +2,66 @@
 
 {
   "schema": "evona-signals/v1",
-  "scan_date": "2026-11-07",
-  "generated_at": "2026-11-07T08:36:53.000Z",
+  "scan_date": "2026-11-08",
+  "generated_at": "2026-11-08T08:35:46.000Z",
   "source": "EVONA daily signals scan",
   "signals": [
+    {
+      "id": "scan-20261108-c-01",
+      "type": "contract",
+      "company": "SpaceX, Blue Origin, Firefly Aerospace, Intuitive Machines, iSpace US, Lockheed Martin Space, Northrop Grumman Space Systems, Voyager Technologies",
+      "agency": "NASA (Commercial Lunar Payload Services 2 / Moon Base)",
+      "value": "$10B ceiling",
+      "valUSD": 10000,
+      "date": "7 Nov 2026",
+      "dateISO": "2026-11-07",
+      "sector": "Lunar cargo landers / Moon base logistics",
+      "detail": "NASA selected 8 firms for the CLPS 2 multiple-award IDIQ (10-yr, $10B ceiling) to deliver cargo landers for a sustained lunar South Pole Moon base.",
+      "source": "nasa.gov",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+    },
+    {
+      "id": "scan-20261108-c-02",
+      "type": "contract",
+      "company": "Blue Origin",
+      "agency": "NASA (Moon Base — PROMISE rover)",
+      "value": "$94M base (+$140M option)",
+      "valUSD": 94,
+      "date": "7 Nov 2026",
+      "dateISO": "2026-11-07",
+      "sector": "Lunar rover / surface mobility",
+      "detail": "Base contract to deliver NASA's PROMISE rover to the lunar south pole; up to $140M more via a performance-based option.",
+      "source": "nasa.gov",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+    },
+    {
+      "id": "scan-20261108-c-03",
+      "type": "contract",
+      "company": "Arrow Science and Technology, Blue Origin, Impulse Space",
+      "agency": "NASA (VADR — launch & transport)",
+      "value": "~$1.3B",
+      "valUSD": 1300,
+      "date": "7 Nov 2026",
+      "dateISO": "2026-11-07",
+      "sector": "Launch & lunar transport services",
+      "detail": "Six VADR task orders totalling ~$1.3B for Moon Base launch and transport (VADR IDIQ has a $5B max across all contracts).",
+      "source": "nasa.gov",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+    },
+    {
+      "id": "scan-20261108-c-04",
+      "type": "contract",
+      "company": "Quantum Space",
+      "agency": "NASA (Moon Base Transportation)",
+      "value": "$185M",
+      "valUSD": 185,
+      "date": "7 Nov 2026",
+      "dateISO": "2026-11-07",
+      "sector": "Cislunar transport / spacecraft",
+      "detail": "Quantum Space (Rockville, MD) part of a team awarded $185M under NASA's Moon Base transportation program.",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/quantum-space-part-of-team-awarded-185-million-nasa-contract-for-moon-base-transportation-program-302932612.html"
+    },
     {
       "id": "scan-20261106-c-02",
       "type": "contract",
