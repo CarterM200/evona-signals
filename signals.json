@@ -1,7 +1,7 @@
 {
   "schema": "evona-signals/v1",
-  "scan_date": "2026-11-08",
-  "generated_at": "2026-11-08T08:35:46.000Z",
+  "scan_date": "2026-11-10",
+  "generated_at": "2026-11-10T08:38:37.000Z",
   "source": "EVONA daily signals scan",
   "signals": [
     {

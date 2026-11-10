@@ -2,8 +2,8 @@
 
 {
   "schema": "evona-signals/v1",
-  "scan_date": "2026-11-08",
-  "generated_at": "2026-11-08T08:35:46.000Z",
+  "scan_date": "2026-11-10",
+  "generated_at": "2026-11-10T08:38:37.000Z",
   "source": "EVONA daily signals scan",
   "signals": [
     {
@@ -435,6 +435,7 @@
       "date": "Sep 2026",
       "dateISO": "2026-09-01",
       "lead": "Ribbit Capital, Infinite Capital (June 2026 tranche co-leads)",
+      "sector": "",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com"
     },
