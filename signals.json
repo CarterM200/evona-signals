@@ -1,9 +1,23 @@
 {
   "schema": "evona-signals/v1",
-  "scan_date": "2026-11-16",
-  "generated_at": "2026-11-16T08:34:38Z",
+  "scan_date": "2026-11-17",
+  "generated_at": "2026-11-17T08:28:54Z",
   "source": "EVONA daily signals scan",
   "signals": [
+    {
+      "id": "cj-redwire-space-contract-sr-mechanical-engineer-longmont-co",
+      "type": "hiring",
+      "company": "Redwire Space",
+      "dateISO": "2026-11-17",
+      "date": "17 Nov 2026",
+      "source": "careers.redwirespace.com",
+      "url": "https://careers.redwirespace.com/jobs/contract-sr-mechanical-engineer-longmont-colorado-united-states",
+      "detail": "Contract Sr. Mechanical Engineer · Longmont, CO · 6 months · $50.00-$63.00/hr (plus agency fees)",
+      "round": "",
+      "role": "Contract Sr. Mechanical Engineer",
+      "location": "Longmont, CO",
+      "tier": "A*"
+    },
     {
       "id": "cj-virisha-llc-satellite-systems-engineer-remote-us",
       "type": "hiring",
@@ -75,20 +89,6 @@
       "tier": "A*"
     },
     {
-      "id": "cj-redwire-space-contractor-electrical-design-engineer-will-consider-all-sr-levels-littleton-co",
-      "type": "hiring",
-      "company": "Redwire Space",
-      "dateISO": "2026-11-16",
-      "date": "16 Nov 2026",
-      "source": "Redwire careers (Redwire Space Missions LLC), verified via henryhire",
-      "url": "https://henryhire.com/job/contractor-electrical-design-engineer-will-consider-all-sr-levels-redwire-space-9047097",
-      "detail": "Contractor - Electrical Design Engineer (will consider all Sr. levels) · Littleton, CO · Up to 6 months · $67.03-$90.00/hr",
-      "round": "",
-      "role": "Contractor - Electrical Design Engineer (will consider all Sr. levels)",
-      "location": "Littleton, CO",
-      "tier": "A*"
-    },
-    {
       "id": "cj-teksystems-space-systems-engineer-chantilly-va",
       "type": "hiring",
       "company": "TEKsystems",
@@ -101,6 +101,62 @@
       "role": "Space Systems Engineer",
       "location": "Chantilly, VA",
       "tier": "Agency"
+    },
+    {
+      "id": "scan-20261117-c-01",
+      "type": "contract",
+      "company": "Northrop Grumman",
+      "agency": "Lockheed Martin (U.S. Army PAC-3 MSE program)",
+      "value": "$1.6B",
+      "valUSD": 1600,
+      "date": "16 Nov 2026",
+      "dateISO": "2026-11-16",
+      "sector": "Missile defense / propulsion",
+      "detail": "New $1.6B order to scale solid rocket motors & ignition safety devices for PAC-3 MSE interceptors",
+      "source": "globenewswire.com",
+      "url": "https://globenewswire.com/news-release/2026/11/16/3403745/189/en/northrop-grumman-lands-1-6-billion-award-to-scale-pac-3-mse-propulsion-production.html"
+    },
+    {
+      "id": "scan-20261117-c-02",
+      "type": "contract",
+      "company": "SpaceX, ULA & Blue Origin",
+      "agency": "U.S. Space Force / Space Systems Command (NSSL Phase 3 Lane 2)",
+      "value": "$985M",
+      "valUSD": 985,
+      "date": "16 Nov 2026",
+      "dateISO": "2026-11-16",
+      "sector": "Launch",
+      "detail": "National Security Space Launch Phase 3 Lane 2 launch-service contract modifications (combined $985M ceiling; no funds obligated at award)",
+      "source": "war.gov",
+      "url": "https://www.newsbeep.com/us/919720/"
+    },
+    {
+      "id": "scan-20261117-c-03",
+      "type": "contract",
+      "company": "Velo3D",
+      "agency": "U.S. Army DEVCOM Armaments Center (ONIX / OTA)",
+      "value": "$10M",
+      "valUSD": 10,
+      "date": "16 Nov 2026",
+      "dateISO": "2026-11-16",
+      "sector": "Defense manufacturing / additive",
+      "detail": "Up to $10M OTA for modular warhead & lethal payload architectures for unmanned systems using metal additive manufacturing",
+      "source": "defensehere.com",
+      "url": "https://defensehere.com/en/velo3d-selected-us-defense-award-uas-payloads"
+    },
+    {
+      "id": "cj-redwire-space-contractor-electrical-design-engineer-will-consider-all-sr-levels-littleton-co",
+      "type": "hiring",
+      "company": "Redwire Space",
+      "dateISO": "2026-11-15",
+      "date": "15 Nov 2026",
+      "source": "Redwire careers (Redwire Space Missions LLC), verified via henryhire",
+      "url": "https://henryhire.com/job/contractor-electrical-design-engineer-will-consider-all-sr-levels-redwire-space-8111709",
+      "detail": "Contractor - Electrical Design Engineer (will consider all Sr. levels) · Littleton, CO (also Jacksonville, FL) · Up to 6 months · $67.03-$90.00/hr",
+      "round": "",
+      "role": "Contractor - Electrical Design Engineer (will consider all Sr. levels)",
+      "location": "Littleton, CO (also Jacksonville, FL)",
+      "tier": "A*"
     },
     {
       "id": "cj-redwire-space-contractor-sr-principal-embedded-software-engineer-san-jose-ca",
@@ -278,10 +334,10 @@
       "date": "15 Nov 2026",
       "source": "Monster (Airbus U.S. Space & Defense, Inc.)",
       "url": "https://www.monster.com/job-openings/senior-systems-engineer-contract-herndon-va--8c3c538c-455e-47a8-97fa-fa202eeb9c8d",
-      "detail": "Senior Systems Engineer (Contract) · Herndon, VA (remote, US)",
+      "detail": "Senior Systems Engineer (Contract) · Herndon, VA (fully remote, US)",
       "round": "",
       "role": "Senior Systems Engineer (Contract)",
-      "location": "Herndon, VA (remote, US)",
+      "location": "Herndon, VA (fully remote, US)",
       "tier": "C"
     },
     {
@@ -313,6 +369,20 @@
       "tier": "A*"
     },
     {
+      "id": "cj-redwire-space-contractor-sr-quality-engineer-goleta-ca",
+      "type": "hiring",
+      "company": "Redwire Space",
+      "dateISO": "2026-11-15",
+      "date": "15 Nov 2026",
+      "source": "Redwire careers (Redwire Space Missions LLC), verified via diversityjobs",
+      "url": "https://careers.redwirespace.com/jobs/contractor-sr-quality-engineer-quality-engineer-staff-goleta-california-united-states",
+      "detail": "Contractor - Sr Quality Engineer (Quality Engineer, Staff) · Goleta, CA",
+      "round": "",
+      "role": "Contractor - Sr Quality Engineer (Quality Engineer, Staff)",
+      "location": "Goleta, CA",
+      "tier": "A*"
+    },
+    {
       "id": "cj-undisclosed-staffing-agency-embedded-software-engineer-spacecraft-avionics-rf-comms-c-t-us-onsite-city-not-stated",
       "type": "hiring",
       "company": "Undisclosed staffing agency",
@@ -339,20 +409,6 @@
       "role": "Space Systems Engineer (Principal/Sr)",
       "location": "Chantilly, VA",
       "tier": "Agency"
-    },
-    {
-      "id": "cj-redwire-space-contractor-sr-quality-engineer-goleta-ca",
-      "type": "hiring",
-      "company": "Redwire Space",
-      "dateISO": "2026-11-14",
-      "date": "14 Nov 2026",
-      "source": "Tallo (Redwire posting)",
-      "url": "https://tallo.com/talent/job/engineering/validation-engineer/ca/goleta/contractor-sr-quality-engine-c6bb44a5",
-      "detail": "Contractor - Sr Quality Engineer · Goleta, CA · Up to 6 months · $52-60/hr",
-      "round": "",
-      "role": "Contractor - Sr Quality Engineer",
-      "location": "Goleta, CA",
-      "tier": "A*"
     },
     {
       "id": "cj-redwire-space-contractor-spacecraft-avionics-lead-will-consider-all-senior-levels-littleton-co",
@@ -422,20 +478,6 @@
       "round": "",
       "role": "Contractor Embedded Software Test Engineer (Will Consider All Sr Levels)",
       "location": "Jacksonville, FL",
-      "tier": "A*"
-    },
-    {
-      "id": "cj-redwire-space-contract-sr-mechanical-engineer-longmont-co",
-      "type": "hiring",
-      "company": "Redwire Space",
-      "dateISO": "2026-11-14",
-      "date": "14 Nov 2026",
-      "source": "Redwire careers (ATS)",
-      "url": "https://careers.redwirespace.com/jobs/contract-sr-mechanical-engineer-longmont-colorado-united-states",
-      "detail": "Contract Sr Mechanical Engineer · Longmont, CO",
-      "round": "",
-      "role": "Contract Sr Mechanical Engineer",
-      "location": "Longmont, CO",
       "tier": "A*"
     },
     {
