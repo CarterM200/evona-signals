@@ -1,7 +1,7 @@
 {
   "schema": "evona-signals/v1",
   "scan_date": "2026-11-18",
-  "generated_at": "2026-11-18T08:29:23Z",
+  "generated_at": "2026-11-18T21:39:06Z",
   "source": "EVONA daily signals scan",
   "signals": [
     {
@@ -45,6 +45,69 @@
       "role": "Contract AIT Engineer (12-Month) - Satellite Integration & Test",
       "location": "Los Angeles, CA",
       "tier": "Agency"
+    },
+    {
+      "id": "scan-20261118-p-04",
+      "type": "preaward",
+      "company": "Space Development Agency (incumbent: Huntington Ingalls)",
+      "agency": "Space Development Agency",
+      "value": "",
+      "date": "17 Nov 2026",
+      "dateISO": "2026-11-17",
+      "sector": "Space / SDA",
+      "detail": "SDA notice of intent to sole-source to Huntington Ingalls (SDA-SN-27-0004) · comments due 20 Nov 2026",
+      "source": "edsnews.substack.com",
+      "url": "https://edsnews.substack.com/p/samgov-weekly-two-pages-can-open"
+    },
+    {
+      "id": "scan-20261118-p-03",
+      "type": "preaward",
+      "company": "Naval Research Laboratory",
+      "agency": "Naval Research Laboratory",
+      "value": "",
+      "date": "17 Nov 2026",
+      "dateISO": "2026-11-17",
+      "sector": "Space electronics / payloads",
+      "detail": "Space Electronic Systems Prototype Development (N0017327R0001) · due 28 Dec 2026",
+      "source": "edsnews.substack.com",
+      "url": "https://edsnews.substack.com/p/samgov-weekly-two-pages-can-open"
+    },
+    {
+      "id": "scan-20261118-p-02",
+      "type": "preaward",
+      "company": "Department of the Air Force",
+      "agency": "Department of the Air Force",
+      "value": "",
+      "date": "17 Nov 2026",
+      "dateISO": "2026-11-17",
+      "sector": "Cislunar / autonomy",
+      "detail": "AI Uses for Cislunar Space Vehicle Operations RFI (110926-2) · questions due 21 Nov, responses due 4 Dec 2026",
+      "source": "edsnews.substack.com",
+      "url": "https://edsnews.substack.com/p/samgov-weekly-two-pages-can-open"
+    },
+    {
+      "id": "scan-20261118-p-01",
+      "type": "preaward",
+      "company": "U.S. Space Force / Space Systems Command (likely primes: pLEO comms providers)",
+      "agency": "Space Systems Command — Space Data Network Backbone / Special Programs Directorate",
+      "value": "",
+      "date": "17 Nov 2026",
+      "dateISO": "2026-11-17",
+      "sector": "SATCOM / pLEO mesh",
+      "detail": "Space Data Network Industry Consortium (SDN-CONSORT-27-01) — one-step call for white papers to populate a consortium for a proliferated-LEO space-to-space comms mesh; zero-$ OTA Associate Membership; US-owned/operated only (NAICS 541715, CUI/800-171) · due 23 Nov 2026 (CUI SAFE drop-off request by 18 Nov)",
+      "source": "sam.gov",
+      "url": "https://sam.gov/opp/a62a1dca4c8b4258abc83f100b24c322/view"
+    },
+    {
+      "id": "scan-20261118-l-01",
+      "type": "layoff",
+      "company": "Triple Canopy (Constellis)",
+      "date": "17 Nov 2026",
+      "dateISO": "2026-11-17",
+      "sector": "Defense services / security",
+      "detail": "~115 roles · two St. Cloud, Minnesota sites · WARN notice (armed security contractor — defence-services, not space eng)",
+      "source": "knsiradio.com",
+      "url": "https://knsiradio.com/2026/11/17/armed-security-contractor-triple-canopy-plans-115-minnesota-layoffs-two-sites-in-st-cloud/"
     },
     {
       "id": "scan-20261118-f-02",
