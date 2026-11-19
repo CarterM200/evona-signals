@@ -2,10 +2,93 @@
 
 {
   "schema": "evona-signals/v1",
-  "scan_date": "2026-11-18",
-  "generated_at": "2026-11-18T21:39:06Z",
+  "scan_date": "2026-11-19",
+  "generated_at": "2026-11-19T08:30:26Z",
   "source": "EVONA daily signals scan",
   "signals": [
+    {
+      "id": "cj-redwire-space-contract-sr-mechanical-engineer-longmont-co",
+      "type": "hiring",
+      "company": "Redwire Space",
+      "dateISO": "2026-11-19",
+      "date": "19 Nov 2026",
+      "source": "Redwire careers (employer ATS)",
+      "url": "https://careers.redwirespace.com/jobs/contract-sr-mechanical-engineer-longmont-colorado-united-states",
+      "detail": "Contract Sr. Mechanical Engineer · Longmont, CO · 6 months · $50-63/hr (plus agency fees)",
+      "round": "",
+      "role": "Contract Sr. Mechanical Engineer",
+      "location": "Longmont, CO",
+      "tier": "A*"
+    },
+    {
+      "id": "cj-redwire-space-contract-rf-test-engineer-longmont-co",
+      "type": "hiring",
+      "company": "Redwire Space",
+      "dateISO": "2026-11-19",
+      "date": "19 Nov 2026",
+      "source": "Redwire careers (employer ATS)",
+      "url": "https://careers.redwirespace.com/jobs/contract-rf-test-engineer-longmont-colorado-united-states",
+      "detail": "Contract RF Test Engineer · Longmont, CO · 6 months · $47-59/hr (plus agency fees)",
+      "round": "",
+      "role": "Contract RF Test Engineer",
+      "location": "Longmont, CO",
+      "tier": "A*"
+    },
+    {
+      "id": "cj-redwire-space-contractor-systems-engineer-san-jose-ca",
+      "type": "hiring",
+      "company": "Redwire Space",
+      "dateISO": "2026-11-19",
+      "date": "19 Nov 2026",
+      "source": "Redwire careers (employer ATS)",
+      "url": "https://careers.redwirespace.com/jobs/contractor-systems-engineer-willing-to-consider-all-sr-levels-san-jose-california-united-states",
+      "detail": "Contractor, Systems Engineer (willing to consider all Sr. levels) · San Jose, CA · $60-110/hr",
+      "round": "",
+      "role": "Contractor, Systems Engineer (willing to consider all Sr. levels)",
+      "location": "San Jose, CA",
+      "tier": "A*"
+    },
+    {
+      "id": "cj-redwire-space-contractor-electrical-test-engineer-littleton-co",
+      "type": "hiring",
+      "company": "Redwire Space",
+      "dateISO": "2026-11-19",
+      "date": "19 Nov 2026",
+      "source": "Redwire careers (employer ATS)",
+      "url": "https://careers.rdw.com/jobs/contractor-electrical-test-engineer-willing-to-consider-all-levels-littleton-colorado-united-states",
+      "detail": "Contractor, Electrical Test Engineer (willing to consider all levels) · Littleton, CO · Up to 6 months · $56-96/hr",
+      "round": "",
+      "role": "Contractor, Electrical Test Engineer (willing to consider all levels)",
+      "location": "Littleton, CO",
+      "tier": "A*"
+    },
+    {
+      "id": "scan-20261119-p-01",
+      "type": "preaward",
+      "company": "Department of the Air Force / SpaceWERX (Space Force topics)",
+      "agency": "AFWERX / SpaceWERX",
+      "value": "Up to $2.1M (Phase II)",
+      "date": "19 Nov 2026",
+      "dateISO": "2026-11-19",
+      "sector": "Space & defense dual-use SBIR/STTR",
+      "detail": "AFWERX/SpaceWERX SBIR/STTR open topics (Phase I up to $323K; Phase II up to $2.1M; TACFI/STRATFI follow-on) · due 25 Nov 2026 · submit via DSIP (dodsbirsttr.mil)",
+      "source": "opengrants.io",
+      "url": "https://opengrants.io/grants/afwerx-spacewerx-sbir-sttr-air-force-and-space-force/"
+    },
+    {
+      "id": "cj-airbus-u-s-space-defense-senior-spacecraft-gnc-engineer-remote",
+      "type": "hiring",
+      "company": "Airbus U.S. Space & Defense",
+      "dateISO": "2026-11-19",
+      "date": "19 Nov 2026",
+      "source": "Teal (aggregator)",
+      "url": "https://www.tealhq.com/job/senior-gnc-engineer_7ea1aaf9de46b5db15bdab0ed57cc20cbda30",
+      "detail": "Senior Spacecraft GNC Engineer (Contract) · Remote (US)",
+      "round": "",
+      "role": "Senior Spacecraft GNC Engineer (Contract)",
+      "location": "Remote (US)",
+      "tier": "C"
+    },
     {
       "id": "cj-redwire-space-contractor-hardware-test-engineer-iii-littleton-co",
       "type": "hiring",
@@ -21,20 +104,6 @@
       "tier": "A*"
     },
     {
-      "id": "cj-redwire-space-contract-sr-mechanical-engineer-longmont-co",
-      "type": "hiring",
-      "company": "Redwire Space",
-      "dateISO": "2026-11-18",
-      "date": "18 Nov 2026",
-      "source": "Redwire Space careers (employer ATS)",
-      "url": "https://careers.redwirespace.com/jobs/contract-sr-mechanical-engineer-longmont-colorado-united-states",
-      "detail": "Contract Sr. Mechanical Engineer · Longmont, CO · 6 months · $50.00-$63.00/hr (+ agency fees)",
-      "round": "",
-      "role": "Contract Sr. Mechanical Engineer",
-      "location": "Longmont, CO",
-      "tier": "A*"
-    },
-    {
       "id": "cj-darwin-recruitment-contract-ait-engineer-satellite-integration-test-los-angeles-ca",
       "type": "hiring",
       "company": "Undisclosed space startup",
@@ -46,6 +115,20 @@
       "round": "",
       "role": "Contract AIT Engineer (12-Month) - Satellite Integration & Test",
       "location": "Los Angeles, CA",
+      "tier": "Agency"
+    },
+    {
+      "id": "cj-randstad-digital-advanced-space-systems-engineer-scottsdale-az",
+      "type": "hiring",
+      "company": "Randstad Digital",
+      "dateISO": "2026-11-18",
+      "date": "18 Nov 2026",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/51abc64c-ce91-4bb9-9e72-01f4d74bdab1",
+      "detail": "Advanced Space Systems Engineer · Scottsdale, AZ · $68-70/hr · via Randstad Digital",
+      "round": "",
+      "role": "Advanced Space Systems Engineer",
+      "location": "Scottsdale, AZ",
       "tier": "Agency"
     },
     {
@@ -166,6 +249,31 @@
       "role": "Senior Systems Engineer (Contract)",
       "location": "Herndon, VA (fully remote, US)",
       "tier": "C"
+    },
+    {
+      "id": "scan-20261119-f-01",
+      "type": "funding",
+      "company": "Ramon.Space",
+      "round": "Series B",
+      "amount": "$124M",
+      "amtUSD": 124,
+      "date": "17 Nov 2026",
+      "dateISO": "2026-11-17",
+      "lead": "PSG",
+      "sector": "Space computing / radiation-hardened avionics",
+      "source": "satellitetoday.com",
+      "url": "https://www.satellitetoday.com/finance/2026/11/17/ramon-space-raises-124m-to-power-space-computing-growth/"
+    },
+    {
+      "id": "scan-20261119-e-01",
+      "type": "exec",
+      "company": "General Dynamics Mission Systems (GDMS)",
+      "date": "17 Nov 2026",
+      "dateISO": "2026-11-17",
+      "role": "VP & GM, Space, Cyber & Intelligence Systems",
+      "detail": "Rachel Oberc — VP & GM, Space, Cyber & Intelligence Systems (returning; prev. VP Network & Communication Systems, a ~$250M business); succeeds Amy Johnson (moved to GDIT president)",
+      "source": "govconwire.com",
+      "url": "https://www.govconwire.com/articles/rachel-oberc-gdms-space-cyber-intel-vp"
     },
     {
       "id": "scan-20261117-c-03",
@@ -292,6 +400,34 @@
       "role": "Contract AIT Engineer (12-Month), Satellite Integration & Test",
       "location": "Los Angeles, CA",
       "tier": "Agency"
+    },
+    {
+      "id": "scan-20261119-f-02",
+      "type": "funding",
+      "company": "Reflect Orbital",
+      "round": "New funding",
+      "amount": "$73.5M",
+      "amtUSD": 73.5,
+      "date": "16 Nov 2026",
+      "dateISO": "2026-11-16",
+      "lead": "Sequoia / Lux / Starship Ventures (participating)",
+      "sector": "Space-based solar reflectors / orbital power",
+      "source": "mercomcapital.com",
+      "url": "https://mercomcapital.com/funding-ma-roundup-reflect-orbital-raises-73-5-million"
+    },
+    {
+      "id": "scan-20261119-c-01",
+      "type": "contract",
+      "company": "SpaceX / ULA / Blue Origin",
+      "agency": "U.S. Space Force (Space Systems Command)",
+      "value": "$985M",
+      "valUSD": 985,
+      "date": "16 Nov 2026",
+      "dateISO": "2026-11-16",
+      "sector": "National security space launch",
+      "detail": "Combined $985M ceiling increase across NSSL Phase 3 Lane 2 launch-services contracts (ceiling, not obligated); completion Apr 2033",
+      "source": "newspaceeconomy.ca",
+      "url": "https://newspaceeconomy.ca/2026/11/17/space-force-nssl-contract-ceilings-november-2026/"
     },
     {
       "id": "cj-teksystems-space-systems-engineer-principal-sr-chantilly-va",
@@ -627,20 +763,6 @@
       "round": "",
       "role": "Contract Software Engineer (Willing to Consider all Levels)",
       "location": "Remote, US",
-      "tier": "A*"
-    },
-    {
-      "id": "cj-redwire-space-contract-rf-test-engineer-longmont-co",
-      "type": "hiring",
-      "company": "Redwire Space",
-      "dateISO": "2026-11-14",
-      "date": "14 Nov 2026",
-      "source": "Redwire careers (ATS)",
-      "url": "https://careers.redwirespace.com/jobs/contract-rf-test-engineer-longmont-colorado-united-states",
-      "detail": "Contract RF Test Engineer · Longmont, CO",
-      "round": "",
-      "role": "Contract RF Test Engineer",
-      "location": "Longmont, CO",
       "tier": "A*"
     },
     {
@@ -1008,21 +1130,6 @@
       "url": "https://www.morningstar.com/news/business-wire/20261104508354/ast-spacemobile-awarded-us-space-force-contract-through-str-to-advance-space-based-sensing-capabilities"
     },
     {
-      "id": "cj-redwire-space-contractor-systems-engineer-san-jose-ca",
-      "type": "hiring",
-      "company": "Redwire Space",
-      "dateISO": "2026-11-04",
-      "date": "4 Nov 2026",
-      "source": "dice.com",
-      "url": "https://www.dice.com/job-detail/1c6dc236-bd54-421a-92fa-620cf1a53282",
-      "detail": "Contractor, Systems Engineer (willing to consider all levels) · San Jose, CA · $60.00-$110.00/hr",
-      "round": "",
-      "role": "Contractor, Systems Engineer (willing to consider all levels)",
-      "location": "San Jose, CA",
-      "tier": "A",
-      "cjStatus": "borderline"
-    },
-    {
       "id": "cj-redwire-space-contract-manufacturing-technician-iii-goleta-ca",
       "type": "hiring",
       "company": "Redwire Space",
@@ -1080,21 +1187,6 @@
       "location": "United States (site not specified)",
       "tier": "A",
       "cjStatus": "borderline"
-    },
-    {
-      "id": "cj-redwire-space-contractor-electrical-test-engineer-littleton-co",
-      "type": "hiring",
-      "company": "Redwire Space",
-      "dateISO": "2026-11-03",
-      "date": "3 Nov 2026",
-      "source": "dice.com",
-      "url": "https://www.dice.com/job-detail/8e9afe4b-c95d-41d1-9908-d3aecf5b8881",
-      "detail": "Contractor, Electrical Test Engineer (willing to consider all levels) · Littleton, CO · Up to 6 months · $56.00-$96.00/hr",
-      "round": "",
-      "role": "Contractor, Electrical Test Engineer (willing to consider all levels)",
-      "location": "Littleton, CO",
-      "tier": "A",
-      "cjStatus": "verified"
     },
     {
       "id": "scan-20261102-f-northwood-space",
